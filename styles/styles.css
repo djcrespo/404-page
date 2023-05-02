@@ -1,0 +1,19 @@
+
+/* Custom CSS */
+main {
+  margin: 50px;
+}
+
+.info-text {
+  height: 70%;
+  width: auto;
+}
+
+.info-buttons {
+  height: auto;
+  width: auto;
+}
+
+.nav-burger {
+  width: 100%;
+}
