@@ -22,7 +22,9 @@ Este proyecto tiene como objetivo practicar los siguientes conceptos:
 - HTML, CSS y JS
 - Diseño adaptable (responsive)
 - Integración de librerías
+
 Recursos utilizados:
+
 - Bulma.io
 - HTML5
 - CSS3
